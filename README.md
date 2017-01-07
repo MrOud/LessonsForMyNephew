@@ -4,6 +4,6 @@ Inspired by the Eudyptula Challenge (http://eudyptula-challenge.org/). This is g
 
 Task 01: 
 Hey Ethan, so this is your first task. Install git and clone this project, and add a file called TODO.txt, and in that tell me which editor you used to create that file. 
-Commit the changes, upload it, and send a pull request. Here's a quick tutorial about how to use github. You can use either the desktop application or the command line to do this.  
+Commit the changes, and upload it. Here's a quick tutorial about how to use github. You can use either the desktop application or the command line to do this.  
 
 https://www.youtube.com/watch?v=1h9_cB9mPT8&t=204s
